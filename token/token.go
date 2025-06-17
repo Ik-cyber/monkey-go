@@ -2,7 +2,7 @@ package token
 
 type TokenType string
 
-// commit == m
+// commit == mm
 
 const (
 	ILLEGAL = "ILLEGAL"
