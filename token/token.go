@@ -2,6 +2,8 @@ package token
 
 type TokenType string
 
+// commit
+
 const (
 	ILLEGAL = "ILLEGAL"
 	EOF     = "EOF"
